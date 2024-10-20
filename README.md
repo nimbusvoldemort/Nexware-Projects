@@ -1,4 +1,4 @@
-# Nexware Internship Projects
+# Nexware Solutions Internship Projects
 
 ## Task 1: Landing Page
 - Developed a landing page using basic HTML and CSS.
