@@ -1,14 +1,14 @@
 Nexware intership Projects
 
-Task 1 :
- --> Landing Page :
+Task 1 
+Landing Page :
     A landing page where I use basic knowledge of HTML and CSS.
     Create columns, divide sections, arrange items, and add headers and footers.
     Add alignments, padding, color palette, boxes, and other elements.
     There are five sections including Header section, about section, project section, services section, and Footer section
 
-Task 2 :
- --> Portfolio :
+Task 2
+Portfolio :
     Created a portfolio for me where I use html/css.
     There are seven section including:
         header section - including my name and tagline, 
@@ -20,6 +20,6 @@ Task 2 :
         footer section - copyright
 
 Task 3 :
- --> calculator :
+calculator :
     Created a simple calculator where I use HTML, CSS & JAVASCRIPT.
         created a simple calculater showing basic operations such as subtraction, multiplication, addition, division, and a option to clear everything.
