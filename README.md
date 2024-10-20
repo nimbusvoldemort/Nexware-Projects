@@ -1,25 +1,32 @@
-Nexware intership Projects
+# Nexware Internship Projects
 
-Task 1 
-Landing Page :
-    A landing page where I use basic knowledge of HTML and CSS.
-    Create columns, divide sections, arrange items, and add headers and footers.
-    Add alignments, padding, color palette, boxes, and other elements.
-    There are five sections including Header section, about section, project section, services section, and Footer section
+## Task 1: Landing Page
+- Developed a landing page using basic HTML and CSS.
+- Implemented layout with columns, divided sections, arranged items, and added headers and footers.
+- Applied alignments, padding, color palettes, boxes, and other design elements.
+- The page includes five sections:
+  1. **Header** 
+  2. **About**
+  3. **Projects**
+  4. **Services**
+  5. **Footer**
 
-Task 2
-Portfolio :
-    Created a portfolio for me where I use html/css.
-    There are seven section including:
-        header section - including my name and tagline, 
-        about section -includes image, short bio highlight , 
-        skill section - includes my skills, 
-        project section - includes my project name, image and description,
-        resume section - whaere you can download my resume, 
-        contact section - my contact info, 
-        footer section - copyright
+## Task 2: Portfolio
+- Created a personal portfolio using HTML and CSS.
+- The portfolio contains seven sections:
+  1. **Header**: My name and tagline.
+  2. **About**: Includes an image and a short bio.
+  3. **Skills**: Highlights my skillset.
+  4. **Projects**: Displays project names, images, and descriptions.
+  5. **Resume**: A section to download my resume.
+  6. **Contact**: My contact information.
+  7. **Footer**: Copyright details.
 
-Task 3 :
-calculator :
-    Created a simple calculator where I use HTML, CSS & JAVASCRIPT.
-        created a simple calculater showing basic operations such as subtraction, multiplication, addition, division, and a option to clear everything.
+## Task 3: Calculator
+- Developed a simple calculator using HTML, CSS, and JavaScript.
+- The calculator supports basic operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+  - Clear/reset functionality
